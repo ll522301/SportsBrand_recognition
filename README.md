@@ -1,0 +1,2 @@
+# SportsBrand_recognition
+基于CNN模型的运动品牌识别
